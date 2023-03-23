@@ -1,0 +1,22 @@
+{
+  "name": "jquery-meanmenu",
+  "version": "1.0.0",
+  "description": "Jquery meanmenu",
+  "main": "jquery.meanmenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cscoderr/jquery-meanmenu.git"
+  },
+  "author": {
+    "name": "Tomiwa Idowu",
+    "url": "https://github.com/cscoderr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cscoderr/jquery-meanmenu/issues"
+  },
+  "homepage": "https://github.com/cscoderr/jquery-meanmenu#readme"
+}
